@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Irfan.<br>I'm a Mobile App Developer specializing in building apps using Flutter. With experience in developing applications for both Android and iOS, I always focus on writing clean code, ensuring optimal performance, and delivering an exceptional user experience.<br><br>I enjoy contributing to open source projects and constantly learning about the latest technologies in mobile development.<br><br>🔧 My Skills:<br>Flutter & Dart<br>Android & iOS App Development<br>API and Firebase Integration<br>State Management with Bloc, etc..
+👋 Hello, I'm Irfan.<br>I'm a Flutter Developer. With experience in developing applications for both Android,iOS and Desktop, I always focus on writing clean code, ensuring optimal performance, and delivering an exceptional user experience.<br><br>I enjoy contributing to open source projects and constantly learning about the latest technologies in mobile development.<br><br>🔧 My Skills:<br>Flutter & Dart<br>Android & iOS App Development<br><br>Desktop Development<br>API and Firebase Integration<br>State Management with Bloc, etc..
 
 
 ## 🌐 Socials:
