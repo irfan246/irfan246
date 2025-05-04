@@ -1,7 +1,7 @@
 ![Header](./images/github-header-image.png)
 
 # 💫 About Me:
-👋 Hello, I'm Irfan.<br>I'm a Flutter Developer. With experience in developing applications for both Android,iOS and Desktop, I always focus on writing clean code, ensuring optimal performance, and delivering an exceptional user experience.<br><br>I enjoy contributing to open source projects and constantly learning about the latest technologies in mobile development.
+👋 Hello.<br>I'm a Flutter Developer. With experience in developing applications for both Android,iOS and Desktop, I always focus on writing clean code, ensuring optimal performance, and delivering an exceptional user experience.<br><br>I enjoy contributing to open source projects and constantly learning about the latest technologies in mobile development.
 
 
 ## 🌐 Socials:
